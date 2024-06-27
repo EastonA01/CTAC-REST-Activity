@@ -1,0 +1,51 @@
+/* Styling for the main header */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Styling for list items and buttons */
+ol li {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+/* Styling for posts container */
+#postsContainer {
+    margin-top: 20px;
+}
+
+.post {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.post h2 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+.post p {
+    margin-bottom: 5px;
+}
+
+/* Styling for message container */
+#message {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
